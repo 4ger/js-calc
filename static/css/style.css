@@ -1,0 +1,19 @@
+.calc-wrapper .digits-buttons {
+    margin-top: 5px;
+}
+
+.calc-wrapper .digits-buttons .digit-button {
+    width: 30px;
+    height: 30px;
+}
+
+.calc-wrapper .operator-buttons .operator-button {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+.calc-wrapper .digits, .calc-wrapper .operator-buttons {
+    display: inline-block;
+}
